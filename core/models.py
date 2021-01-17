@@ -4,10 +4,13 @@ from django.urls import reverse
 #from core.forms import DictionaryLookup
 from django.conf import settings
 
+import os
 import random
 import requests
 
-ALL_WORDS = open('/core/words.txt').read().lower()
+text_path = os.path.join(settings.BASE_DIR, 'core/words.txt')
+ALL_WORDS = open(text_path, 'r').read().lower()
+
 # ALL_WORDS = open('/Users/tracyfalba/momentum/django-projects/locallibrary/catalog/words.txt', 'r').read().lower()
 ALL_WORDS = ALL_WORDS.split()
 ALL_SMALL_WORDS = []
