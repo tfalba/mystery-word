@@ -1,0 +1,34 @@
+[
+    {
+        "name": "django_migrations",
+        "seq": 29
+    },
+    {
+        "name": "django_content_type",
+        "seq": 8
+    },
+    {
+        "name": "auth_permission",
+        "seq": 32
+    },
+    {
+        "name": "auth_group",
+        "seq": 0
+    },
+    {
+        "name": "django_admin_log",
+        "seq": 653
+    },
+    {
+        "name": "core_user",
+        "seq": 1
+    },
+    {
+        "name": "core_guess",
+        "seq": 559
+    },
+    {
+        "name": "core_word",
+        "seq": 128
+    }
+]

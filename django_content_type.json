@@ -1,0 +1,42 @@
+[
+    {
+        "app_label": "admin",
+        "id": 1,
+        "model": "logentry"
+    },
+    {
+        "app_label": "auth",
+        "id": 2,
+        "model": "permission"
+    },
+    {
+        "app_label": "auth",
+        "id": 3,
+        "model": "group"
+    },
+    {
+        "app_label": "contenttypes",
+        "id": 4,
+        "model": "contenttype"
+    },
+    {
+        "app_label": "sessions",
+        "id": 5,
+        "model": "session"
+    },
+    {
+        "app_label": "core",
+        "id": 6,
+        "model": "user"
+    },
+    {
+        "app_label": "core",
+        "id": 7,
+        "model": "word"
+    },
+    {
+        "app_label": "core",
+        "id": 8,
+        "model": "guess"
+    }
+]

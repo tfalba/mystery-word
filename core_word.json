@@ -1,0 +1,326 @@
+[
+    {
+        "id": 1,
+        "word": "DAK"
+    },
+    {
+        "id": 2,
+        "word": "PATENTABILITY"
+    },
+    {
+        "id": 4,
+        "word": "ARCHIZOIC"
+    },
+    {
+        "id": 6,
+        "word": "SPONGY"
+    },
+    {
+        "id": 7,
+        "word": "DEFENSOR"
+    },
+    {
+        "id": 8,
+        "word": "LOCKRAM"
+    },
+    {
+        "id": 9,
+        "word": "REFUTER"
+    },
+    {
+        "id": 10,
+        "word": "AGROSTOLOGIC"
+    },
+    {
+        "id": 11,
+        "word": "COFORMULATOR"
+    },
+    {
+        "id": 12,
+        "word": "PORRIDGELIKE"
+    },
+    {
+        "id": 13,
+        "word": "PALEOPATHOLOGY"
+    },
+    {
+        "id": 14,
+        "word": "SOLITARY"
+    },
+    {
+        "id": 15,
+        "word": "SUPERINDEPENDENT"
+    },
+    {
+        "id": 16,
+        "word": "DIARCHY"
+    },
+    {
+        "id": 17,
+        "word": "MALEDICT"
+    },
+    {
+        "id": 18,
+        "word": "ANTIC"
+    },
+    {
+        "id": 19,
+        "word": "INCOMPOSITE"
+    },
+    {
+        "id": 20,
+        "word": "HYPERPHORIC"
+    },
+    {
+        "id": 21,
+        "word": "RELENT"
+    },
+    {
+        "id": 22,
+        "word": "MEIONITE"
+    },
+    {
+        "id": 23,
+        "word": "REWARN"
+    },
+    {
+        "id": 24,
+        "word": "CARMANIANS"
+    },
+    {
+        "id": 25,
+        "word": "SECANTLY"
+    },
+    {
+        "id": 26,
+        "word": "BEROSSOS"
+    },
+    {
+        "id": 27,
+        "word": "HELIACAL"
+    },
+    {
+        "id": 28,
+        "word": "RONYON"
+    },
+    {
+        "id": 30,
+        "word": "SKEILY"
+    },
+    {
+        "id": 31,
+        "word": "MILIOLITIC"
+    },
+    {
+        "id": 32,
+        "word": "SCALARE"
+    },
+    {
+        "id": 33,
+        "word": "THERESA"
+    },
+    {
+        "id": 34,
+        "word": "OPINABLE"
+    },
+    {
+        "id": 35,
+        "word": "PERISHABILITY"
+    },
+    {
+        "id": 36,
+        "word": "JOWTER"
+    },
+    {
+        "id": 37,
+        "word": "MELANIPPE"
+    },
+    {
+        "id": 39,
+        "word": "ULTRARITUALISM"
+    },
+    {
+        "id": 40,
+        "word": "CRAZINESS"
+    },
+    {
+        "id": 41,
+        "word": "MOLESTFUL"
+    },
+    {
+        "id": 42,
+        "word": "DICTIONARY"
+    },
+    {
+        "id": 43,
+        "word": "CHILDCROWING"
+    },
+    {
+        "id": 44,
+        "word": "TELEOSTOMI"
+    },
+    {
+        "id": 45,
+        "word": "NONBOURGEOIS"
+    },
+    {
+        "id": 46,
+        "word": "CAXTON"
+    },
+    {
+        "id": 47,
+        "word": "KILOMETRIC"
+    },
+    {
+        "id": 48,
+        "word": "UNTORRID"
+    },
+    {
+        "id": 49,
+        "word": "DOMINANCE"
+    },
+    {
+        "id": 50,
+        "word": "ADNOMINALLY"
+    },
+    {
+        "id": 51,
+        "word": "SKYE"
+    },
+    {
+        "id": 52,
+        "word": "VASTY"
+    },
+    {
+        "id": 53,
+        "word": "ANTIMONIC"
+    },
+    {
+        "id": 54,
+        "word": "NONMATTER"
+    },
+    {
+        "id": 55,
+        "word": "CEREBELLOSPINAL"
+    },
+    {
+        "id": 56,
+        "word": "UNCONVULSED"
+    },
+    {
+        "id": 57,
+        "word": "SULCATE"
+    },
+    {
+        "id": 58,
+        "word": "OLFACTOLOGY"
+    },
+    {
+        "id": 62,
+        "word": "ANGST"
+    },
+    {
+        "id": 64,
+        "word": "DISPRIVILEGE"
+    },
+    {
+        "id": 87,
+        "word": "LAPSE"
+    },
+    {
+        "id": 99,
+        "word": "GIBBOUS"
+    },
+    {
+        "id": 100,
+        "word": "RECENTLY"
+    },
+    {
+        "id": 101,
+        "word": "NETOP"
+    },
+    {
+        "id": 102,
+        "word": "INSULATE"
+    },
+    {
+        "id": 103,
+        "word": "NOVEMBER"
+    },
+    {
+        "id": 104,
+        "word": "SLEIGHT"
+    },
+    {
+        "id": 109,
+        "word": "TAXING"
+    },
+    {
+        "id": 110,
+        "word": "MASCARA"
+    },
+    {
+        "id": 111,
+        "word": "KERSEY"
+    },
+    {
+        "id": 112,
+        "word": "ANALYST"
+    },
+    {
+        "id": 113,
+        "word": "NERVISM"
+    },
+    {
+        "id": 116,
+        "word": "TEAM"
+    },
+    {
+        "id": 117,
+        "word": "CHUBBY"
+    },
+    {
+        "id": 118,
+        "word": "STARLIKE"
+    },
+    {
+        "id": 119,
+        "word": "EXCLUDER"
+    },
+    {
+        "id": 120,
+        "word": "WELCOME"
+    },
+    {
+        "id": 121,
+        "word": "CRIME"
+    },
+    {
+        "id": 122,
+        "word": "QUAGGA"
+    },
+    {
+        "id": 123,
+        "word": "FOSSA"
+    },
+    {
+        "id": 124,
+        "word": "PREMIER"
+    },
+    {
+        "id": 125,
+        "word": "DEFIANT"
+    },
+    {
+        "id": 126,
+        "word": "STAGHORN"
+    },
+    {
+        "id": 127,
+        "word": "OGIVE"
+    },
+    {
+        "id": 128,
+        "word": "UNCANDID"
+    }
+]

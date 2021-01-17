@@ -1,0 +1,176 @@
+[
+    {
+        "app": "contenttypes",
+        "applied": "2020-12-25 21:54:51.731918",
+        "id": 1,
+        "name": "0001_initial"
+    },
+    {
+        "app": "contenttypes",
+        "applied": "2020-12-25 21:54:51.739368",
+        "id": 2,
+        "name": "0002_remove_content_type_name"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.746487",
+        "id": 3,
+        "name": "0001_initial"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.751878",
+        "id": 4,
+        "name": "0002_alter_permission_name_max_length"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.755427",
+        "id": 5,
+        "name": "0003_alter_user_email_max_length"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.758976",
+        "id": 6,
+        "name": "0004_alter_user_username_opts"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.762412",
+        "id": 7,
+        "name": "0005_alter_user_last_login_null"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.763482",
+        "id": 8,
+        "name": "0006_require_contenttypes_0002"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.767008",
+        "id": 9,
+        "name": "0007_alter_validators_add_error_messages"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.770840",
+        "id": 10,
+        "name": "0008_alter_user_username_max_length"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.774484",
+        "id": 11,
+        "name": "0009_alter_user_last_name_max_length"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.778870",
+        "id": 12,
+        "name": "0010_alter_group_name_max_length"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.783353",
+        "id": 13,
+        "name": "0011_update_proxy_permissions"
+    },
+    {
+        "app": "auth",
+        "applied": "2020-12-25 21:54:51.786964",
+        "id": 14,
+        "name": "0012_alter_user_first_name_max_length"
+    },
+    {
+        "app": "core",
+        "applied": "2020-12-25 21:54:51.792060",
+        "id": 15,
+        "name": "0001_initial"
+    },
+    {
+        "app": "admin",
+        "applied": "2020-12-25 21:54:51.798009",
+        "id": 16,
+        "name": "0001_initial"
+    },
+    {
+        "app": "admin",
+        "applied": "2020-12-25 21:54:51.805398",
+        "id": 17,
+        "name": "0002_logentry_remove_auto_add"
+    },
+    {
+        "app": "admin",
+        "applied": "2020-12-25 21:54:51.812416",
+        "id": 18,
+        "name": "0003_logentry_add_action_flag_choices"
+    },
+    {
+        "app": "sessions",
+        "applied": "2020-12-25 21:54:51.814563",
+        "id": 19,
+        "name": "0001_initial"
+    },
+    {
+        "app": "core",
+        "applied": "2020-12-28 19:45:47.503340",
+        "id": 20,
+        "name": "0002_word"
+    },
+    {
+        "app": "core",
+        "applied": "2020-12-30 16:38:28.076332",
+        "id": 21,
+        "name": "0003_guess"
+    },
+    {
+        "app": "core",
+        "applied": "2021-01-01 12:42:20.797326",
+        "id": 22,
+        "name": "0004_auto_20210101_1242"
+    },
+    {
+        "app": "core",
+        "applied": "2021-01-02 23:11:18.099463",
+        "id": 23,
+        "name": "0005_word_letters"
+    },
+    {
+        "app": "core",
+        "applied": "2021-01-02 23:11:18.103647",
+        "id": 24,
+        "name": "0006_auto_20210102_2301"
+    },
+    {
+        "app": "core",
+        "applied": "2021-01-02 23:11:18.107402",
+        "id": 25,
+        "name": "0007_auto_20210102_2303"
+    },
+    {
+        "app": "core",
+        "applied": "2021-01-02 23:11:18.111362",
+        "id": 26,
+        "name": "0008_auto_20210102_2304"
+    },
+    {
+        "app": "core",
+        "applied": "2021-01-02 23:11:18.115156",
+        "id": 27,
+        "name": "0009_remove_word_letters"
+    },
+    {
+        "app": "core",
+        "applied": "2021-01-02 23:11:58.305058",
+        "id": 28,
+        "name": "0010_word_letters"
+    },
+    {
+        "app": "core",
+        "applied": "2021-01-02 23:13:59.547402",
+        "id": 29,
+        "name": "0011_remove_word_letters"
+    }
+]
