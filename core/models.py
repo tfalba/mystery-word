@@ -8,7 +8,8 @@ import os
 import random
 import requests
 
-text_path = os.path.join(settings.BASE_DIR, 'core/words.txt')
+#text_path = os.path.join(settings.BASE_DIR, 'core/words.txt')
+text_path = os.path.join(settings.BASE_DIR, 'core/words2.txt')
 ALL_WORDS = open(text_path, 'r').read().lower()
 
 # ALL_WORDS = open('/Users/tracyfalba/momentum/django-projects/locallibrary/catalog/words.txt', 'r').read().lower()

@@ -36,8 +36,8 @@ SECRET_KEY = env('SECRET_KEY')
 DEBUG = True
 #DEBUG = False
 
-# ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['blooming-escarpment-83670.herokuapp.com']
+ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['blooming-escarpment-83670.herokuapp.com', '127.0.0.1' ]
 # Application definition
 
 INSTALLED_APPS = [
