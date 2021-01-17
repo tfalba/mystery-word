@@ -7,7 +7,8 @@ from django.conf import settings
 import random
 import requests
 
-ALL_WORDS = open('/Users/tracyfalba/momentum/django-projects/locallibrary/catalog/words.txt', 'r').read().lower()
+ALL_WORDS = open('../words.txt').read().lower()
+# ALL_WORDS = open('/Users/tracyfalba/momentum/django-projects/locallibrary/catalog/words.txt', 'r').read().lower()
 ALL_WORDS = ALL_WORDS.split()
 ALL_SMALL_WORDS = []
 for word in ALL_WORDS:
