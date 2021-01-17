@@ -15,7 +15,8 @@ from pathlib import Path
 from decouple import config
 
 import environ
-
+import django_on_heroku
+django_on_heroku.settings(locals())
 
 env = environ.Env(
     # set casting, default value
