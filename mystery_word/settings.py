@@ -15,8 +15,6 @@ from pathlib import Path
 from decouple import config
 
 import environ
-import django_on_heroku
-django_on_heroku.settings(locals())
 
 env = environ.Env(
     # set casting, default value
@@ -141,7 +139,7 @@ STATICFILES_DIRS = [
     BASE_DIR / 'static',
 ]
 
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+# STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 # Custom user model
 
@@ -157,3 +155,7 @@ INTERNAL_IPS = [
 
 OXFORD_APP_ID = config('OXFORD_APP_ID', default='')
 OXFORD_APP_KEY = config('OXFORD_APP_KEY', default='')
+
+import django_on_heroku
+django_on_heroku.settings(locals())
+
