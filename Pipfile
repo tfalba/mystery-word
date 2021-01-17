@@ -15,6 +15,7 @@ django-environ = "*"
 requests = "*"
 python-decouple = "*"
 psycopg2-binary = "*"
+django-on-heroku = "*"
 
 [requires]
 python_version = "3.8"
