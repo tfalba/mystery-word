@@ -16,6 +16,7 @@ requests = "*"
 python-decouple = "*"
 psycopg2-binary = "*"
 django-on-heroku = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
