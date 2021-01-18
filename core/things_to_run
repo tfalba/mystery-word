@@ -1,0 +1,24 @@
+export DATABASE_URL=postgres://$(whoami)
+touch Procfile
+add line to it like in this app
+
+run psql
+create user and then create database with user access
+
+'create user mystery'
+create database mystery with user mystery
+psql mystery
+change DATABASE settings
+pipenv
+
+heroku config:set SECRET_KEY= 'use secret key from app"
+get url from site and set allowed_howsts
+heroku config:set ALLOWED_HOSTS = 'url'
+
+install django-on-heroku
+install psycopg2-binary
+*check importing these in settings
+
+change DATABASE config
+ heroku addons:create heroku-postgresql:hobby-dev
+heroku run python manage.py migrate

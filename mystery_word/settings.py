@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 
 import os
 from pathlib import Path
-from decouple import config
+# from decouple import config
 
 import environ
 
@@ -154,9 +154,12 @@ INTERNAL_IPS = [
     # ...
 ]
 
-OXFORD_APP_ID = config('OXFORD_APP_ID', default='')
-OXFORD_APP_KEY = config('OXFORD_APP_KEY', default='')
+# OXFORD_APP_ID = config('OXFORD_APP_ID', default='')
+# OXFORD_APP_KEY = config('OXFORD_APP_KEY', default='')
 
-# import django_on_heroku
-# django_on_heroku.settings(locals())
+OXFORD_APP_ID = env('OXFORD_APP_ID')
+OXFORD_APP_KEY = env('OXFORD_APP_KEY')
+
+import django_on_heroku
+django_on_heroku.settings(locals())
 

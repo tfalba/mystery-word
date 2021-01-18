@@ -7,11 +7,19 @@ from django.conf import settings
 import os
 import random
 import requests
+import urllib3
 
-#text_path = os.path.join(settings.BASE_DIR, 'core/words.txt')
-text_path = os.path.join(settings.BASE_DIR, 'core/words2.txt')
-ALL_WORDS = open(text_path, 'r').read().lower()
+# text_path = os.path.join(settings.BASE_DIR, 'core/words.txt')
+#text_path = os.path.join(settings.BASE_DIR, 'core/words2.txt')
+# text_path = 'https://s3.console.aws.amazon.com/s3/object/mystery-word?region=us-east-1&prefix=words.txt'
+file = requests.get('https://mystery-word.s3.amazonaws.com/words.txt')
+#text_path = "https://mystery-word.s3.amazonaws.com/words.txt"
+# file = response.text
+#url = "https://mystery-word.s3.amazonaws.com/words.txt"
+#file = urlib.request.urlopen(url)
 
+ALL_WORDS = file.text.lower()
+# ALL_WORDS = open(file.text, 'r').read().lower()
 # ALL_WORDS = open('/Users/tracyfalba/momentum/django-projects/locallibrary/catalog/words.txt', 'r').read().lower()
 ALL_WORDS = ALL_WORDS.split()
 ALL_SMALL_WORDS = []
